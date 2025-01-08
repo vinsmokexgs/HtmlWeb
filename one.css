@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#one{
+    border: 2px solid rgb(35, 216, 78);
+}
+#two{
+    border: 2px rgb(211, 31, 11);
+    font-size: 30px;
+}
+
+.oone{
+    border: 2px solid rgb(0, 21, 255);
+}
+
+.ooone{
+    border: 2px solid rgb(108, 8, 207);
+}
+.oooone{
+    border: 2px saddlebrown;
+}
+#six{
+    font-size: 25px;
+}
+#first{
+    border: 2px solid rgb(232, 23, 93);
+    height: 200px;
+    width: 100%;
+    background-color: blueviolet;
+    padding-top: 10px;
+}
