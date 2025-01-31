@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline;
+    text-align: justify; 
+    gap: 143em;
+
+}
+#one{
+    margin: auto;
+    width: 80%;
+
+}
+/* nav{
+    padding: 45px;
+} */
+.first{
+    font-size: large;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+}
+#two{
+    /* border: 15px solid red; */
+    height: 450px;
+    width: 350px;
+    border-radius: 39px;
+    padding-top: 12px;
+    margin: 30px;
+    display: inline-block;
+    overflow: auto ;
+
+}
+#three{
+        /* border: 15px solid red; */
+        height: 450px;
+        width: 350px;
+        border-radius: 29px;
+        padding-top: 12px;
+        margin: 30px;
+        display: inline-block;
+        overflow: auto ;
+    
+    }
+
+    #four{
+        /* border: 15px solid red; */
+        height: 450px;
+        width: 350px;
+        border-radius: 29px;
+        padding-top: 12px;
+        margin: 30px;
+        display: inline-block;
+        overflow: auto ;
+    
+    }
+    .oone{
+        /* padding: 1px; */
+        margin: 15px;
+        padding-left: 12px;
+
+    }
+    img{
+        width: 350px;
+    }
+    #five{
+        border: 5px solid red;
+        height: 250px;
+        width: 350px;
+        border-radius: 39px;
+        padding-top: 12px;
+        margin: 30px;
+        display: inline-block;
+        overflow: auto ;
+    
+    }
+    #six{
+        border: 5px solid red;
+        height: 250px;
+        width: 350px;
+        border-radius: 39px;
+        padding-top: 12px;
+        margin: 30px;
+        display: inline-block;
+        overflow: auto ;
+    
+    }
+    #seven{
+        border: 5px solid red;
+        height: 250px;
+        width: 350px;
+        border-radius: 39px;
+        padding-top: 12px;
+        margin: 30px;
+        display: inline-block;
+        overflow: auto ;
+    
+    }
+    .ttwo{
+        padding-left: 23px;
+
+    }
+    #eight{
+        border: 5px solid red;
+        height: 250px;
+        width: 350px;
+        border-radius: 39px;
+        padding-top: 12px;
+        margin: 30px;
+        display: inline-block;
+        overflow: auto ;
+    
+    }
+    #nine{
+        border: 5px solid red;
+        height: 250px;
+        width: 350px;
+        border-radius: 39px;
+        padding-top: 12px;
+        margin: 30px;
+        display: inline-block;
+        overflow: auto ;
+    
+    }
+    .thhree{
+        border: 3px solid black;
+        height: 200px;
+        width: auto;
+        background-color: blue;
+        text-align: center;
+        text-decoration-color: aliceblue;
+    }

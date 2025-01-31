@@ -1,0 +1,22 @@
+.main{
+    border: 3px solid green;
+    display: flex;
+    flex-direction:row-reverse;
+    height: 100vh;
+    justify-content:right;
+    /*center,end,start*/
+    align-items:start;
+    /*center,end,start*/
+    /* flex-wrap: wrap; */
+    gap: 12px;
+    padding: 12px;
+    
+
+}
+.box{
+    /* border: 3px solid red; */
+    height: 33px;
+    width: 100px;
+    cursor: pointer;
+
+}

@@ -1,0 +1,15 @@
+.nav{
+    border: 3px solid black;
+    background-color: blueviolet;
+    color: black;
+}
+
+ul{
+    display: flex;
+    justify-content: end;
+    gap: 22px;
+    font-size: 30px;
+    padding-right: 22px;
+    list-style: none;
+
+}

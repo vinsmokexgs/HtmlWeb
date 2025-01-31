@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: #333; */
+
+}
+body{
+    background-color: black;
+}
+.main{
+    /* border: 3px solid green; */
+    display: flex;
+    flex-direction:row;
+    /* height: 100vh; */
+    justify-content:right;
+    /*center,end,start*/
+    align-items:start;
+    /*center,end,start*/
+    /* flex-wrap: wrap; */
+    gap: 12px;
+    padding: 12px;background-color: black;
+    color: white;
+    
+
+}
+.box{
+    /* border: 3px solid red; */
+    height: 33px;
+    width: 100px;
+    cursor: pointer;
+
+}
+.para{
+    /* border: 3px solid green; */
+    display: flex; 
+    justify-content:right;
+    align-items: center;
+    gap: 314px;
+    margin-right: 0px;
+    background-color: black;
+  
+    width: auto;
+}
+.container-1{
+    /* border: 3px solid red; */
+    color: white;
+    height: 330px;
+    /* width: 100px; */
+    margin: 54px;
+}
+p{
+    font-size: 30px;
+}
+h1{
+    font-size: 38px;
+}
+h2{
+    margin-left: 15px;
+    font-size: 40px;
+    color: red;
+}
+img{
+    height: 335px;
+    width: 396px;
+    border-radius: 160px;
+    margin-left: 30px;
+}
+.para-2{
+    /* border: 3px solid rgb(77, 11, 220); */
+    display: flex; 
+    justify-content:right;
+    align-items: center;
+    gap: 314px;
+    margin-right: 0px;
+    background-color: black;
+  
+    width: auto;
+}
+.container-2{
+    /* border: 3px solid red; */
+    color: white;
+    height: 330px;
+    /* width: 100px; */
+}
+.para-3{
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    /* align-items: center; */
+    align-content: center;
+     border: 3px solid rgb(77, 11, 220);
+}
+    /* display: flex; 
+    align-items:start;
+justify-content: start; */ */
+    /* justify-content:start;
+    align-items: start; */
+    /* gap: 140px; */
+    /* margin-right: 0px; */
+    /* background-color: black; */
+    /* width: auto; */
+    /* flex-wrap: wrap; */
+
+    section {
+        padding: 50px;
+        border-bottom: 1px solid #444;
+    }
+    
+    button {
+        background-color: red;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        cursor: pointer;
+        font-size: 16px;
+        margin-top: 10px;
+    }
+    #services{
+        background-color: black;
+        justify-content: space-evenly;
+        align-content: center;
+        gap: 120px;
+
+    }
+    .service {
+        display: inline-block;
+        align-content: center;
+        gap: 120px;
+        background-color: #635f5f;
+        padding: 20px;
+        margin-right: 195px;
+        margin-left: 63px;
+        height: 75px;
+        width: 200px;
+
+    }
+    #contact{
+        background-color: black;
+        text-align: center;
+    }
+    h3{
+        font-size: 30px;
+        color: white;
+
+    }
+    h4{
+        font-size: 30px;
+        color: red;
+    }
